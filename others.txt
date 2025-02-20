@@ -2,4 +2,4 @@ JupiterLabs
 SatDump.apk for android
 Frostbyte.apk for android
 Aredn for Proxmox
-Helix IDE
+Amazon App store apk (FDroid, UptoDown and Aurora are good too)
