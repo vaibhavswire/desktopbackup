@@ -3,3 +3,4 @@ SatDump.apk for android
 Frostbyte.apk for android
 Aredn for Proxmox
 Amazon App store apk (FDroid, UptoDown and Aurora are good too)
+MouseMux for Win11
