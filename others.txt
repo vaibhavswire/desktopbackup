@@ -9,3 +9,4 @@ Zotero
 Mendeley Reference Manager
 OllamaSetup with Dolphin L3
 Prometheus for analytics
+Oracle Developer Studio IDE Desktop
